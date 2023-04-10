@@ -21,7 +21,7 @@ steps:
 
 #Here you define all the information needed to connect to Prisma 
 substitutions:
-    _TWISTLOCK_URL: 'https://us-west1.cloud.twistlock.com/us-4-161056307
+    _TWISTLOCK_URL: 'https://us-west1.cloud.twistlock.com/us-4-161056307'
     _TWISTLOCK_USER: 'c48fb25f-d70e-4d83-b302-efabe73ce6d7'
     _TWISTLOCK_SECRET_NAME:  'TWISTLOCK_PASS'
 
